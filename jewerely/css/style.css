@@ -1,0 +1,215 @@
+/*@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);*/
+
+
+/*Header*/
+
+body {
+
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+
+}
+
+header {
+		
+	height: 700px;
+
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+	color: white;
+
+}
+
+header .wrap-header {
+
+	width: 1024px;
+	margin: 0 auto;
+
+}
+
+header .degradado {
+
+	padding-top: 20px;
+
+background: -moz-linear-gradient(top,  rgba(0,0,0,1) 0%, rgba(0,0,0,0) 45%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,1)), color-stop(45%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 45%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 45%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 45%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(0,0,0,1) 0%,rgba(0,0,0,0) 45%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+header h1 {
+
+	width: 150px;
+	float: left;
+	
+	font-size: 24px;
+
+	padding: 0;
+	margin: 0;
+
+}
+
+
+header h1 a {
+
+	font-weight: 300;
+	color: white;
+	text-decoration: none;
+
+}
+
+
+/* Menu */
+
+header .wrap-menu{
+
+	float: right;
+
+}
+
+
+header .menu {
+
+	margin: 0;
+	padding: 0;
+
+	list-style: none;
+
+}
+
+header .menu .item {
+	
+	display: inline-table;
+	margin-left: 25px;
+
+}
+
+header .menu .item a {
+
+	color: white;
+	text-decoration: none;
+	font-weight: 300;
+
+}
+
+header .menu .item a:hover {
+	
+	color: red;
+
+}
+
+
+.cleafix {
+	
+	clear: both;
+
+}
+
+
+/* Header container */
+
+header .header-container{
+
+	margin-top: 180px;
+
+}
+
+
+header .header-container .lema {
+
+	font-weight: 300;
+	font-size: 24px;
+
+}
+
+
+header .header-container h2 {
+
+	font-size: 60px;
+	font-weight: 400;
+
+	margin: 25px 0;
+
+}
+
+
+button.more {
+	
+	border:2px solid red;
+	background-color: red;
+	color: white;
+	padding: 15px 30px;
+	font-size: 16px;
+	border-radius: 3px;
+	cursor: pointer;
+
+}
+
+
+button.more:hover{
+
+	background-color: #c90000;
+	border-color: #c90000;
+
+}
+
+
+
+button.choose {
+	
+	margin-left: 20px;
+	border:2px solid white;
+	background-color: transparent;
+	color: white;
+	padding: 15px 30px;
+	font-size: 16px;
+	border-radius: 3px;
+	cursor: pointer;
+
+}
+
+
+button.choose:hover {
+
+	background-color: white;
+	color: black;
+
+}
+
+
+.container {
+	
+	width: 1024px;
+	margin: 0 auto;
+
+}
+
+.intro h3 {
+	
+	float: left;
+	font-size: 46px;
+	font-weight: 400;
+	width: 300px;
+	padding-top: 140px;
+
+}
+
+.intro .text {
+
+	float: right;
+	width: 500px;
+	color: gray;
+	font-size: 16px;
+	padding-top: 100px;
+	line-height: 30px;
+	color: #b0bbc0;
+
+}
+
+
