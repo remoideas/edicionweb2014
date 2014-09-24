@@ -105,7 +105,7 @@ header .menu .item a:hover {
 }
 
 
-.cleafix {
+.clearfix {
 	
 	clear: both;
 
@@ -196,7 +196,7 @@ button.choose:hover {
 	font-size: 46px;
 	font-weight: 400;
 	width: 300px;
-	padding-top: 140px;
+	padding-top: 185px;
 
 }
 
@@ -211,5 +211,88 @@ button.choose:hover {
 	color: #b0bbc0;
 
 }
+.intro .text p {
+
+	margin-bottom: 0;
+
+}
+.division {
+
+	border-top: 1px solid #f1f1f1;
+	margin: 100px 0;
+
+}
+
+.work h3 {
+
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+
+}
+
+.work .separador {
+	
+	text-align: center;
+	margin: 20px 0;
+
+}
+
+.work .subtitle {
+
+	text-align: center;
+	color: #b7b7b7;
+	font-weight: 300;
+	margin-bottom: 88px;
+}
+
+.work .work-container {
+
+	margin: 32px 0;
+
+}
+
+.work .work-wrap {
+
+	width: 285px;
+	float: left;
+	margin-right: 82px;
+
+}
+
+.work .work-wrap:last-child {
+
+	margin-right: 0px;
+
+}
+
+.work h4 {
+	
+	font-size: 18px;
+
+}
+
+.work p {
+
+	font-size: 16px;
+	color: #b7b7b7;
+	font-weight: 300;
+
+}
 
 
+/* Slider */
+
+
+.slider {
+	
+	padding: 100px 0;
+	background-color: #faf9f9;
+
+}
+
+.slider img.thumb {
+
+	float: left;
+
+}

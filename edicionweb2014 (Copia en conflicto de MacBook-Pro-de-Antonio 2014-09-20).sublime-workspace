@@ -1,0 +1,1614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"tras",
+				"transparent"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"inli",
+				"inline-table"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"neg",
+				"negocios/"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"up",
+				"update_fichas_antiguos/"
+			],
+			[
+				"imag",
+				"image_gallery"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"array",
+				"array_thumbnail"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"content",
+				"content_negocio.less"
+			],
+			[
+				"conte",
+				"content-perfi.less"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wp_eu",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"bagro",
+				"background-size"
+			],
+			[
+				"enque",
+				"wp_enqueue_style"
+			],
+			[
+				"inc",
+				"incl1	include_once …"
+			],
+			[
+				"sec",
+				"sections/"
+			],
+			[
+				"A",
+				"ARRAY_A"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"radio",
+				"radio_count"
+			],
+			[
+				"hor",
+				"horarios_turno.php"
+			],
+			[
+				"sele",
+				"select.php"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tit",
+				"title_post"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"date",
+				"date_array"
+			],
+			[
+				"fiel",
+				"field"
+			],
+			[
+				"g",
+				"global"
+			],
+			[
+				"remo",
+				"remove	.remove()"
+			],
+			[
+				"meta",
+				"metabox/"
+			],
+			[
+				"uix",
+				"uix_tabs_inputs.php"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"index",
+				"index_functions.php"
+			],
+			[
+				"inde",
+				"index_functions.php"
+			],
+			[
+				"query",
+				"query_unique"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"template",
+				"template-categorias.php"
+			],
+			[
+				"templa",
+				"template-categorias-modals.php"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"_func",
+				"_functions_reviews.php"
+			],
+			[
+				"jQery",
+				"jQuery"
+			],
+			[
+				"text",
+				"textarea_origen"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"descripcion",
+				"descripcion-negocio"
+			],
+			[
+				"taxo",
+				"taxonomy-categorias.php"
+			],
+			[
+				"WID",
+				"width"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"wh",
+				"width	.width"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"logo",
+				"logo_url"
+			],
+			[
+				"attac",
+				"attach_id"
+			],
+			[
+				"attachme",
+				"attachment_array"
+			],
+			[
+				"utf_",
+				"utf8_encode"
+			],
+			[
+				"t",
+				"tm1-to-tm2.php"
+			],
+			[
+				"tm",
+				"tm1-to-tm2/"
+			],
+			[
+				"incl",
+				"incl	include …"
+			],
+			[
+				"fad",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"pau",
+				"paquete_contratado"
+			],
+			[
+				"paquete",
+				"paquete_activo"
+			],
+			[
+				"fields",
+				"fields/"
+			],
+			[
+				"wp_cache",
+				"wp_cache_get"
+			],
+			[
+				"get",
+				"get_all_fields"
+			],
+			[
+				"fie",
+				"fields/"
+			],
+			[
+				"dat",
+				"datos-negocio.php"
+			],
+			[
+				"datos",
+				"datos-negocio-head.php"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"enq",
+				"wp_enqueue_style"
+			],
+			[
+				"wp",
+				"wp_categorias1"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"va",
+				"value  (variable)"
+			],
+			[
+				"varriable",
+				"variable_ejercicio  (variable)"
+			],
+			[
+				"varia",
+				"variable2  (variable)"
+			],
+			[
+				"vari",
+				"variable2  (variable)"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"post",
+				"post	Post Template"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_script"
+			],
+			[
+				"soundex",
+				"soundex_indice"
+			],
+			[
+				"mysql_fetc",
+				"mysql_fetch_array"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"inne",
+				"inline-block"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"data",
+				"data-role=  (attribute)"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"rea",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"script",
+				"script	<script>"
+			],
+			[
+				"correo",
+				"correo_array"
+			],
+			[
+				"image",
+				"imagenes/"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"get_template_",
+				"get_template_part"
+			],
+			[
+				"get_direct",
+				"get_template_directory"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"come",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git dele",
+				"Git: Delete Branch"
+			],
+			[
+				"git delete",
+				"Git: Delete Branch"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"curren",
+				"Git: Add Current File"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"auto",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"aligment",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"REMOVE",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"REMODE",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"LISTA",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"com",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"COME",
+				"Toggle Comment"
+			],
+			[
+				"aligmente",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"indente",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wordpre",
+				"WordPress Codex: Search from Input"
+			],
+			[
+				"wordpres",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"emmet",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"pick",
+				"Color picker"
+			],
+			[
+				"open",
+				"Open File Navigator"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"file navi",
+				"Open File Navigator"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"AUTO",
+				"Autocomplete file name"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pic",
+				"Color picker"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"build",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wordpress",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prety",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"htmlpre",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"installa",
+				"Package Control: Install Package"
+			],
+			[
+				"Zen Coding: ",
+				"Zen Coding: Select next item"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			]
+		],
+		"width": 582.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/antremo/Dropbox/www/jefferson/2014S2/Edición web/repositorios/edicionweb2014/index.html",
+		"/Users/antremo/Dropbox/www/jefferson/2014S2/Edición web/repositorios/edicionweb2014/jewerely/index.html",
+		"/Users/antremo/Dropbox/www/jefferson/2014S2/Edición web/repositorios/edicionweb2014/jewerely/css/style.css",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/repeat-metabox-direcciones-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/less/add_direccion.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/fields/google-maps.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/tm_negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/assets/js/main-field.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-mysql/tm-mysql.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/fields/_functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/fields/_base.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/remo-inputs.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/fields/google-maps.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/assets/css/main-field.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/advanced-custom-fields/js/input.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/advanced-custom-fields/core/fields/google-map.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-direcciones-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-fichas-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/core/api.php",
+		"/Users/antremo/Dropbox/www/sitios.todamorelia/sitios.todamorelia.dev/wp-content/themes/sitiotm1/index.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/sections/negocios/perfil-negocios/perfil-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/repeat-metabox-fichas-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/section-negocios.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-pagos-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/sections/core/_base.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/sections/negocios/perfil-negocios/template/head-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/single-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/single-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/header-full.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/taxonomy-categorias.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/negocios/perfil-negocio/perfil-negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/negocios/perfil-negocio/head_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/negocios/perfil-negocio/content_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/sections/negocios/perfil-negocios/template/main-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/footer.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia/style.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia/style.css",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/template-categorias-modals.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/template-categorias.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/css/main.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/core/tm_framework.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/negocios/perfil-negocio/side_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/template-categorias-functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/inc/set_datos.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/fields/horarios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/inc/horarios/horarios_function.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/inc/horarios/select.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/inc/plugins/facybox/fancybox.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/css/jquery.bxslider.css",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/inc/blur-image/blur-image.php",
+		"/Users/antremo/Downloads/Diseño Web/WordPress/Plug-Ins/Snipped/image-effects-generator/app/show_sizes.php",
+		"/Users/antremo/Downloads/Diseño Web/WordPress/Plug-Ins/Snipped/image-effects-generator/app/filters/blurred.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/rewrite-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-config.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/inc/custom-slug.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/tm-secciones.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/single.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/header.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/taxonomy-categorias-functions.php",
+		"/Users/antremo/Downloads/Diseño Web/WordPress/Plug-Ins/Snipped/image-effects-generator/app/app.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-includes/media.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-includes/media-template.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/advanced-custom-fields/core/fields/image.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-admin/includes/media.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-admin/custom-background.php",
+		"/Users/antremo/Downloads/Diseño Web/WordPress/Plug-Ins/Snipped/image-effects-generator/settings/settings_page_content.php",
+		"/Users/antremo/Downloads/Diseño Web/WordPress/Plug-Ins/Snipped/image-effects-generator/settings/settings_page.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/fields/horarios_turno.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/inc/tm_upadte_renovacion_negocio/tm_upadte_renovacion_negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/negocios/actualizar_fecha_renovacion/actualizar_fecha_renovacion.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/core/_base_section.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/less/resumen-negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/js/resumen-negocio.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-resumen-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/search-functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/composer.json",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/section-negocios.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/section-negocios-ck.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/remo-debug.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/negocios/update_fichas_antiguos/update_fichas_antiguos.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/negocios/update_pagos_fichas_excel/update_pagos_fichas_excel.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-generales-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/negocios/update_fechas_registros/update_fechas_registros.php",
+		"/Users/antremo/Dropbox/www/ClickOperadora/sitio/www.clickoperadora.dev/wp-content/plugins/remo-csv-to-mysql/convert-csv-to-mysql.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/repeat-metabox-pagos-negocios.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/tm1-to-tm2/_functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-debug/tm1-to-tm2/tm1-to-tm2-count.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/_functions.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/includes/_functions_image.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/style.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/negocios/perfil-negocio/footer_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/archive-negocios.php",
+		"/Users/antremo/Dropbox/www/sitios.todamorelia/sitios.todamorelia.dev/wp-content/themes/sitiotm1/secciones/galeria.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/footer-full.php",
+		"/Users/antremo/Dropbox/www/sitios.todamorelia/sitios.todamorelia.dev/wp-content/themes/sitiotm1/functions.php",
+		"/Users/antremo/Dropbox/www/sitios.todamorelia/sitios.todamorelia.dev/wp-content/themes/sitiotm1/js/customizer.js",
+		"/Users/antremo/Dropbox/www/sitios.todamorelia/sitios.todamorelia.dev/wp-content/themes/sitiotm1/js/main.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/header-tm2.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/less/negocios/perfil-negocio/perfil-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/css/negociosperfil-negocio/head_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/css/perfil-negocio/head_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/sections/negocios/perfil-negocios/template/head-negocio-php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/section/perfil-negocio/perfil-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/template/perfil-negocio/perfil-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/template/perfil-negocio/head-negocio-php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/template/perfil-negocio/main-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/template/perfil-negocio/side-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/single-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/assets/css/head_negocio.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/style.css",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia2/style.ss",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-ajax/ajax.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-ajax/ajax_old.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-ajax/tm-ajax.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/css/css/404.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/themes/todamorelia1/404.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/js/horarios.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/less/add_horarios.less",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/fields/radio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-descripcion-negocio.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/js/add_user.js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/assets/js",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/metabox/metabox-horarios-negocios.php",
+		"/Users/antremo/Dropbox/www/rsviajes/sitio/www.rsviajes.dev/wp-content/plugins/rsviajes-crm/notas/metabox/metabox-items-nota.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/tm-secciones/fields/vendedores.php",
+		"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins/remo-inputs/fields/date-single.php"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev",
+			"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/",
+			"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content/plugins",
+			"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev",
+			"/Users/antremo/Dropbox/www/www.todamorelia.com/sitio/www.todamorelia.dev/wp-content",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev,*.js",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev,*.php",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content/plugins/advanced-custom-fields,*.php",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev,*.php",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content/plugins/advanced-custom-fields,*.php",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content/plugins/advanced-custom-flieds,*.php,",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev,*.php,",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content,*.php,",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content/themes,*.php,",
+			"/Users/antremo/Dropbox/www/www.todamorelia.dev/wp-content,*.php,",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\plugins\\advanced-custom-fields,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content,*.less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\,*.less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\plugins\\advanced-custom-fields,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\plugins,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\plugins\\woocommerce,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia,*.less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia,*.php",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia,*.phplib",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia,*.less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia\\bootstrap\\less,*.less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia\\bootstrap\\less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia\\bootstrap\\*.less",
+			"C:\\wamp\\Dropbox\\www\\todamoreliabeta\\wp-content\\themes\\todamorelia\\bootstrap",
+			"<project>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"40%",
+			"40",
+			"75",
+			"Texto",
+			"<<",
+			"content_elements_repeatable",
+			"restrict",
+			"set_value",
+			"value",
+			"set_value",
+			"value",
+			"save",
+			"field",
+			"enter",
+			"mapa",
+			"autocomplete",
+			"Autocomplete",
+			"autocomplete",
+			"removeMrker",
+			"target",
+			"search",
+			"google",
+			"$el =",
+			"$el",
+			"$el=",
+			"$el = ",
+			";\n",
+			"$el",
+			"google_map",
+			"remo_print_script_field",
+			"direcc",
+			"remo_text",
+			"remo_repetable",
+			"mapa",
+			"before_send_add",
+			"$('#publish').trigger( \"click\" );",
+			"INSERT",
+			"wrap-repeat",
+			"load",
+			"remo_repetable",
+			"add_item_repeat_ajax",
+			"negocio_add_ficha",
+			"negocio_remove_direccion",
+			"negocio_add_direccion",
+			"negocio_add_ficha",
+			"direcc",
+			"wrap-repeat-direcciones",
+			"content-repeat-elements-direcciones",
+			"add-element-repetable-direccion",
+			"tm_negocios_fichas",
+			"descripcion-perfil",
+			"get_the_starts",
+			"comme",
+			"recome",
+			"recomendar",
+			"href",
+			"edit",
+			"revie",
+			"review",
+			"single-negocios",
+			"single-negocios h2",
+			"recomendaciones",
+			"resena-write",
+			"recomendaciones-perfil",
+			"aside-wrap-border",
+			"pregunt",
+			"recomenda",
+			"{$hoy_hora}",
+			"link",
+			"pide",
+			"title",
+			"CURTIME()",
+			"convetir_hora_ampm_negocio",
+			"convetir_hora_ampm",
+			" PM",
+			" AM",
+			"convetir_hora_ampm",
+			"get_horario",
+			"horario_mediodia",
+			"y de",
+			"update",
+			"horarios",
+			"get_horario",
+			"stron",
+			"content-header",
+			"contain",
+			"mapa",
+			"]\n",
+			"content-aside-perfil",
+			"telephone_array",
+			"direccion_celular2",
+			"direccion_celular1",
+			"direccion_telefono2",
+			"direccion_telefono1",
+			"lefono1",
+			"elefono1",
+			".$_SERVER['HTTP_REFERER'].'",
+			"get_name",
+			"starts",
+			"get_the_gallery",
+			"get_the_title",
+			"get_the_gallery",
+			"get_the_galleryç",
+			"get_the_gallery",
+			" , __FILE__ )",
+			" plugins_url( ",
+			"display",
+			"assets/",
+			"bxslider",
+			"assets",
+			"galler",
+			"left",
+			"t",
+			"			:",
+			"wrap-background-blur",
+			"wp_load_image",
+			"description",
+			"orig_w",
+			"get_intermediate_image_sizes",
+			"image_size_names_choose",
+			"get_id",
+			"get_ID",
+			"name(",
+			"name",
+			"';\n",
+			"colum",
+			"negocio_deuda_total",
+			"saved_post_after"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jQuery",
+			"id",
+			"></",
+			"$}"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"horarios_turno.php",
+				"www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/fields/horarios_turno.php"
+			],
+			[
+				"header",
+				"www.todamorelia.dev/wp-includes/theme-compat/header.php"
+			],
+			[
+				"datos-neg",
+				"www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/custom-edit/datos-negocio.php"
+			],
+			[
+				"datos-negocios",
+				"www.todamorelia.dev/wp-content/plugins/tm-secciones/negocios/custom-edit/datos-negocio-generales.php"
+			],
+			[
+				"function",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"todamorelia/ajax",
+				"wp-content/themes/todamorelia/inc/libreria/ajax.php"
+			],
+			[
+				"funct",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"style",
+				"wp-content/themes/todamorelia_mobile/style.css"
+			],
+			[
+				"funcion",
+				"wp-content/themes/todamorelia_mobile/functions.php"
+			],
+			[
+				"head",
+				"wp-content/themes/todamorelia/header.php"
+			],
+			[
+				"funcio",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"assetstheme",
+				"wp-content/themes/todamorelia/inc/admin/assets/css/theme.css"
+			],
+			[
+				"todamorelia/header",
+				"wp-content/themes/todamorelia/header.php"
+			],
+			[
+				"todamorelia/index",
+				"wp-content/themes/todamorelia/index.php"
+			],
+			[
+				"todamoreliataxono",
+				"wp-content/themes/todamorelia/taxonomy-categorias.php"
+			],
+			[
+				"todamoreliawidget",
+				"wp-content/themes/todamorelia/inc/widgets/login.php"
+			],
+			[
+				"bootstrap.less",
+				"wp-content/themes/todamorelia/bootstrap/less/bootstrap.less"
+			],
+			[
+				"acf/user",
+				"wp-content/themes/todamorelia/inc/acf/user-related-field.php"
+			],
+			[
+				"",
+				"readme.html"
+			],
+			[
+				"acf/",
+				"wp-content/themes/todamorelia/inc/acf/user-data-negocio-field.php"
+			],
+			[
+				"func",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"rena",
+				"wp-content/themes/todamorelia/inc/rename-image/rename-image.php"
+			],
+			[
+				"class-wp-list-table.php",
+				"wp-admin/includes/class-wp-list-table.php"
+			],
+			[
+				"negocio",
+				"wp-content/themes/todamorelia/inc/negocios/custom-post-negocios.php"
+			],
+			[
+				"class-wp-posts-list-table.php",
+				"wp-admin/includes/class-wp-posts-list-table.php"
+			],
+			[
+				"categori-acf.php",
+				"wp-content/themes/todamorelia/inc/acf/categori-acf.php"
+			],
+			[
+				"boots",
+				"wp-content/themes/todamorelia/bootstrap/css/bootstrap.css"
+			],
+			[
+				"boot",
+				"wp-content/themes/todamorelia/bootstrap/less/bootstrap.less"
+			],
+			[
+				"navbar",
+				"wp-content/themes/todamorelia/bootstrap/less/navbar.less"
+			],
+			[
+				"login",
+				"wp-content/themes/todamorelia/inc/widgets/login.php"
+			],
+			[
+				"heade",
+				"wp-content/themes/todamorelia/header.php"
+			],
+			[
+				"bootstrap",
+				"wp-content/themes/todamorelia/bootstrap/less/bootstrap.less"
+			],
+			[
+				"fu",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"bootstrap.css",
+				"wp-content/themes/todamorelia/bootstrap/less/bootstrap.css"
+			],
+			[
+				"varia",
+				"wp-content/themes/todamorelia/bootstrap/less/variables.less"
+			],
+			[
+				"taxono",
+				"wp-content/themes/todamorelia/taxonomy-categorias.php"
+			],
+			[
+				"acf.php",
+				"wp-content/plugins/advanced-custom-fields/acf.php"
+			],
+			[
+				"nav",
+				"wp-content/themes/todamorelia/bootstrap/less/navbar.less"
+			],
+			[
+				"fun",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"the-me",
+				"wp-content/themes/todamorelia/inc/theme-menu/theme-menu.php"
+			],
+			[
+				"todamorelia/op",
+				"wp-content/themes/todamorelia/options.php"
+			],
+			[
+				"option",
+				"wp-admin/options.php"
+			],
+			[
+				"theme-menu.php",
+				"wp-content/themes/todamorelia/inc/theme-menu/theme-menu.php"
+			],
+			[
+				"page",
+				"wp-content/themes/todamorelia/page.php"
+			],
+			[
+				"mixe",
+				"wp-content/themes/todamorelia/bootstrap/less/mixins.less"
+			],
+			[
+				"foot",
+				"wp-content/themes/todamorelia/footer.php"
+			],
+			[
+				"utilities.",
+				"wp-content/themes/todamorelia/bootstrap/less/utilities.less"
+			],
+			[
+				"vari",
+				"wp-content/themes/todamorelia/bootstrap/less/variables.less"
+			],
+			[
+				"theme-men",
+				"wp-content/themes/todamorelia/inc/theme-menu/theme-menu.php"
+			],
+			[
+				"bostrap",
+				"wp-content/themes/todamorelia/bootstrap/css/bootstrap.css"
+			],
+			[
+				"var",
+				"wp-content/themes/todamorelia/bootstrap/less/variables.less"
+			],
+			[
+				"main",
+				"wp-content/themes/todamorelia/stylesheets/theme-main.css"
+			],
+			[
+				"variabl",
+				"wp-content/themes/todamorelia/bootstrap/less/variables.less"
+			],
+			[
+				"todamorelia/func",
+				"wp-content/themes/todamorelia/functions.php"
+			],
+			[
+				"main.css",
+				"wp-content/themes/todamorelia/stylesheets/theme-main.css"
+			],
+			[
+				"pic",
+				"wp-admin/css/color-picker.css"
+			],
+			[
+				".less",
+				"wp-content/themes/todamorelia/stylesheets/grid.less"
+			],
+			[
+				"hello",
+				"wp-content/themes/todamorelia/hello.php"
+			],
+			[
+				"theme-main",
+				"wp-content/themes/todamorelia/stylesheets/theme-main.css"
+			],
+			[
+				"the",
+				"wp-content/themes/todamorelia/stylesheets/theme-main.less"
+			],
+			[
+				"theme",
+				"wp-content/themes/todamorelia/stylesheets/theme-main.less"
+			],
+			[
+				"hell",
+				"wp-content/themes/todamorelia/hello.php"
+			],
+			[
+				"thememain",
+				"wp-content/themes/todamorelia/stylesheets/theme-main.less"
+			],
+			[
+				"archive",
+				"wp-content/themes/todamorelia/archive.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"click",
+				"/Users/antremo/Dropbox/www/ClickOperadora/sitio/www.clickoperadora.dev/clickoperadora.sublime-project"
+			],
+			[
+				"alnssa",
+				"/Users/antremo/Dropbox/www/clientes/anssa/www.alnssa.dev/alnssa.sublime-project"
+			],
+			[
+				"todamorelia",
+				"/Users/antremo/Dropbox/www/www.todamorelia15.dev/15todamorelia.sublime-project"
+			],
+			[
+				"fish",
+				"/Users/antremo/Dropbox/www/Fishk/sitio/fishk.sublime-project"
+			],
+			[
+				"clickop",
+				"/Users/antremo/Dropbox/www/ClickOperadora/ClickOperadora.sublime-project"
+			],
+			[
+				"rsviajes",
+				"/Users/antremo/Dropbox/www/rsviajes/rsviajes.sublime-project"
+			],
+			[
+				"app",
+				"/Users/antremo/Dropbox/www/jefferson/app1/2013-2/pjefferson13/assets/www/appjefferson.sublime-project"
+			],
+			[
+				"jefferson",
+				"/C/wamp/Dropbox/www/jefferson/app1/2013-2/pjefferson13/pjefferson13.sublime-project"
+			],
+			[
+				"edicio",
+				"/C/wamp/Dropbox/www/jefferson/desarrolloweb0/edicion/edicion.sublime-project"
+			],
+			[
+				"edicion",
+				"/C/wamp/Dropbox/www/jefferson/desarrolloweb0/edicion/edicion.sublime-project"
+			],
+			[
+				"edic",
+				"/C/wamp/Dropbox/www/jefferson/desarrolloweb0/edicion/edicion.sublime-project"
+			],
+			[
+				"",
+				"/C/wamp/Dropbox/www/jefferson/desarrolloweb0/edicion/edicion.sublime-project"
+			],
+			[
+				"pjp",
+				"/C/wamp/Dropbox/www/jefferson/produccionweb/produccionweb.sublime-project"
+			],
+			[
+				"todamoreliabeta",
+				"/C/wamp/Dropbox/www/todamoreliabeta/todamorelia.sublime-project"
+			],
+			[
+				"clicko",
+				"/C/wamp/Dropbox/www/ClickOperadora/ClickOperadora.sublime-project"
+			],
+			[
+				"clidk",
+				"/C/wamp/Dropbox/www/ClickOperadora/ClickOperadora.sublime-project"
+			],
+			[
+				"dfrande",
+				"/C/wamp/Dropbox/www/clientes/grupodfrance/dfrance.sublime-project"
+			],
+			[
+				"dfrance",
+				"/C/wamp/Dropbox/www/clientes/grupodfrance/dfrance.sublime-project"
+			],
+			[
+				"produc",
+				"/C/wamp/Dropbox/www/produccionweb/produccionweb.sublime-project"
+			],
+			[
+				"produccion",
+				"/C/wamp/Dropbox/www/produccionweb/produccionweb.sublime-project"
+			],
+			[
+				"desa",
+				"/C/wamp/Dropbox/www/jefferson/desarrolloweb/desarrolloweb.sublime-project"
+			],
+			[
+				"desar",
+				"/C/wamp/Dropbox/www/desarrolloweb/desarrolloweb.sublime-project"
+			],
+			[
+				"ap",
+				"/C/wamp/Dropbox/www/app2/app2.sublime-project"
+			],
+			[
+				"rsviejs",
+				"/C/wamp/Dropbox/www/rsviajes/rsviajes.sublime-project"
+			]
+		],
+		"width": 716.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
